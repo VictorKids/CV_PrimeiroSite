@@ -1,0 +1,42 @@
+/* SELETOR DE TAGS */
+
+  body {
+    background-color: #e9967a;
+  }
+
+  hr {
+    background-color: #e9967a;
+    border-style: dotted none none;
+    border-width: 7px;
+    margin-top: 2em;
+    border-color: #ff5f40;
+    width: 10%;
+  }
+
+  h3 {
+    color: #8b0000;
+  }
+
+  h2 {
+    color: #8b0000;
+  }
+
+  ul {
+    list-style-image: url("../imagens/pokeball.svg");
+  }
+
+/* SELETOR DE CLASSES */
+
+.foto_perfil {
+  border-radius: 10%;
+}
+
+.intro_index {
+  background-color: brown;
+  color: lavenderblush;
+  border-radius: 3%;
+}
+
+.letras_rosa:hover {
+  color: pink;
+}
